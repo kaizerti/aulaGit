@@ -6,6 +6,6 @@ Descrição inicial do meu Read me.
 
 Read me.
 
-Para que serve esse arquivo
+Esse é o texto do subtitulo, e não está formatado de forma distinta. É texto puro.
 
 Serve para descrrever as funcionalidades do software: o que faz, como faz, porque faz, etc;
